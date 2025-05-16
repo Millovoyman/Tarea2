@@ -1,5 +1,5 @@
 //Flores Mejía
-//Ejercicio12
+//Ejercicio10
 //números positivos, negativos o núlos
 
 #include <stdio.h>
