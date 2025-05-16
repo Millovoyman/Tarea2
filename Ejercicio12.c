@@ -1,6 +1,6 @@
 //Flores Mejía
 //Ejercicio12
-//producto de los N primeros números naturales.
+//Producto de los N primeros números naturales.
 
 #include <stdio.h>
 
