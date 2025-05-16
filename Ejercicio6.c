@@ -1,6 +1,6 @@
 //Flores Mejía
 //Ejercicio6
-//
+//Aumentos del %12 y %15
 
 #include <stdio.h>
 
