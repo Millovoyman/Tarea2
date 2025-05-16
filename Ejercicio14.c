@@ -1,6 +1,6 @@
 //Flores Mejía
 //Ejercicio14
-// cuántas veces se encuentra un número dentro del arreglo.
+//Cuántas veces se encuentra un número dentro del arreglo.
 
 #include <stdio.h>
 
