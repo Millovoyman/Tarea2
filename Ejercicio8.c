@@ -1,6 +1,6 @@
 //Flores Mejía
 //Ejercicio8
-//un número divisor de otro
+//Un número divisor de otro
 
 #include <stdio.h>
 
