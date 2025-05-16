@@ -1,6 +1,6 @@
 //Flores Mejía
 //Ejercicio10
-//números positivos, negativos o núlos
+//Números positivos, negativos o núlos
 
 #include <stdio.h>
 
